@@ -1,0 +1,35 @@
+.big-photo{
+    background-image: url(1.jpg);
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: antiquewhite;
+    background-size: cover;
+    background-position: center center;
+}
+img{
+    width: 100%;
+}
+.logo{
+    width: 100px;
+}
+.nav-item{
+    background-color: rgb(160, 82, 82);
+    color: aliceblue;
+    margin: 5px;
+}
+.nav-link{
+    color: aliceblue;
+}
+.list-group-item{
+    background-color: rgba(160, 82, 82, 0.466);
+
+}
+.by-bg-2{
+    background-image: url(4.jpg);
+    background-size: cover;
+    background-position: 50% 50%;
+    align-items: center;
+    padding: 6rem 0;
+}
