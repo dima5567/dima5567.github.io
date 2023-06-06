@@ -1,0 +1,35 @@
+img{
+    width: 100%;
+    transition: 0.5s;
+   
+    
+}
+img:hover{
+    transform: scale(1.1);
+     box-shadow: 0px 0px 10px 10px rgb(107, 106, 106);
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    text-shadow: 0px 0px 10px rgb(0, 140, 255);
+
+}
+h2{
+font-family: 'Tinos', serif;
+border-bottom: 1px solid rgba(0, 140, 255, 0.952);
+padding: 7px;
+}
+p{
+font-family: 'Comfortaa', cursive;
+
+}
+.socio{
+    font-size: 2rem;
+    text-decoration: none;
+    margin: 10px;
+    color: rgb(179, 178, 178);
+}
+footer{
+    background-color: rgb(46, 45, 45);
+    padding: 30px 0;
+}
