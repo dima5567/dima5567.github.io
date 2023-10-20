@@ -1,6 +1,7 @@
 let btn1 = document.querySelector('.btn-1')
 let inp1 = document.querySelector('.inp-1')
-let btn4 = document.querySelector('.btn-4')
+    let div1 = document.querySelector('.div-1')
+
 let inp4 = document.querySelector('.inp-4')
 
 btn1.onclick = function () {
